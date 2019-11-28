@@ -1,7 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<hr>
-
 ## Available Project Link
 
 You can directly access the project with this link: [Click for the project](https://brkslv-citytours.netlify.com)
